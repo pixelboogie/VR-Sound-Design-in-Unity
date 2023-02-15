@@ -17,7 +17,6 @@ public class PlayAudioOnTriggerEnter : MonoBehaviour
     public float minPitch =  0.8f;
     public float maxPitch = 1.2f;
 
-
     
     void Start()
     {
@@ -41,7 +40,7 @@ public class PlayAudioOnTriggerEnter : MonoBehaviour
             else{
                 if(randomizePitch)
                     source.pitch = Random.Range(minPitch, maxPitch);    
-                    
+
                 source.PlayOneShot(clip);
             }
         }
