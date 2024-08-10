@@ -1,7 +1,7 @@
 # VR-Sound-Design-in-Unity
 
 ## Description
-**VR-Sound-Design-in-Unity** is a project focused on creating immersive audio experiences in a VR environment. The project allows users to play virtual drums, with sound effects that vary based on the player's interactions, such as the speed of the drumstick. This project was built using Unity and C#, and it is based on the video tutorial "VR Sound Design in Unity" by Valem Tutorials, which can be found [here](https://www.youtube.com/watch?v=sCObQSNRqN4).
+**VR-Sound-Design-in-Unity** is a project focused on creating immersive audio experiences in a VR environment. The project allows users to play virtual drums, with sound effects that vary based on the player's interactions, such as the speed of the drumstick. This project was built using Unity and C#, and it is based on the video tutorial "VR Sound Design in Unity" by Valem Tutorials, which can be found [VR Sound Design in Unity](https://www.youtube.com/watch?v=sCObQSNRqN4).
 
 ## Features
 - **Interactive Virtual Drums**: Users can play virtual drums in a VR environment, with sound triggered by hitting the drum surfaces.
@@ -15,7 +15,7 @@ To set up this project locally, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/VR-Sound-Design-in-Unity.git
-   
+
    cd VR-Sound-Design-in-Unity
 
 2. **Open in Unity:**
@@ -54,7 +54,7 @@ Here is a snippet from the script that handles the audio triggering when the dru
 This script triggers an audio clip when the drumstick collides with a drum surface, adding a layer of interactivity to the VR environment.
 
 ## Video Tutorial
-This project is based on the video tutorial by Valem Tutorials, which can be found here.
+This project is based on the video tutorial by Valem Tutorials, which can be found here: [VR Sound Design in Unity](https://www.youtube.com/watch?v=sCObQSNRqN4).
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
