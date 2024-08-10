@@ -53,8 +53,5 @@ Here is a snippet from the script that handles the audio triggering when the dru
 
 This script triggers an audio clip when the drumstick collides with a drum surface, adding a layer of interactivity to the VR environment.
 
-## Video Tutorial
-This project is based on the video tutorial by Valem Tutorials, which can be found here: [VR Sound Design in Unity](https://www.youtube.com/watch?v=sCObQSNRqN4).
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
